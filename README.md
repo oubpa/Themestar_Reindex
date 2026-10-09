@@ -5,7 +5,7 @@ Smart index management for Magento 2 — live admin dashboard with one-click reb
 - Module: `Themestar_Reindex` (`themestar/magento2-reindex`)
 - Version: 1.0.0
 - Compatible: Magento 2.4.5+ / PHP 8.1+ / MySQL 5.7+ / MariaDB 10.3+
-
+![Reindex Manager](reindex.jpeg)
 ## Features
 
 - **Live Admin Dashboard** (`Reindex > Dashboard`)
